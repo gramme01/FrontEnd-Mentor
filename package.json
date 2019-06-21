@@ -8,7 +8,7 @@
 	},
 	"devDependencies": {},
 	"scripts": {
-		"deploy": "gh-pages -d huddlealt"
+		"deploy": "gh-pages -d dist"
 	},
 	"repository": {
 		"type": "git",
@@ -19,5 +19,5 @@
 	"bugs": {
 		"url": "https://github.com/gramme01/Huddle--alternating_feature/issues"
 	},
-	"homepage": "https://github.com/gramme01/Huddle--alternating_feature"
+	"homepage": "https://gramme01.github.io/Huddle--alternating_feature"
 }
