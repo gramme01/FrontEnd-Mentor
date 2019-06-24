@@ -8,16 +8,16 @@
 	},
 	"devDependencies": {},
 	"scripts": {
-		"deploy": "gh-pages -d dist"
+		"deploy": "gh-pages -d huddlealt"
 	},
 	"repository": {
 		"type": "git",
-		"url": "git+https://github.com/gramme01/Huddle--alternating_feature.git"
+		"url": "git+https://github.com/gramme01/FrontEnd-Mentor.git"
 	},
 	"author": "",
 	"license": "ISC",
 	"bugs": {
-		"url": "https://github.com/gramme01/Huddle--alternating_feature/issues"
+		"url": "https://github.com/gramme01/FrontEnd-Mentor/issues"
 	},
-	"homepage": "https://gramme01.github.io/Huddle--alternating_feature"
+	"homepage": "https://gramme01.github.io/FrontEnd-Mentor"
 }
